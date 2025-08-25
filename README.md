@@ -18,9 +18,10 @@ A simple Android application that allows users to enter a name and generate a pe
 
 ## 📷 Screenshots
 
-| Main Screen                                                                 | Greeting Screen                                                                     |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| ![MainActivity](https://via.placeholder.com/200x400.png?text=Main+Activity) | ![GreetingActivity](https://via.placeholder.com/200x400.png?text=Greeting+Activity) |
+| Main Screen | Greeting Screen |
+| ----------- | --------------- |
+| <img src="https://github.com/user-attachments/assets/a61e48af-7acd-44d5-842a-93bcca47ff2b" width="250"/> | <img src="https://github.com/user-attachments/assets/77c26730-670a-4101-b3c2-cbde7d7b6b13" width="250"/> |
+
 
 
 ---
